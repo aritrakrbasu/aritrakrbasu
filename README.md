@@ -1,16 +1,38 @@
-### Hi there 👋
+### Hi there 👋 myself Aritra Kumar Basu not an IITIAN or a NITIAN just a CSTIAN 💻
 
-<!--
-**aritrakrbasu/aritrakrbasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- #### Full Stack Web Developer 👾
+- #### Designing websites for more than 5 years now 🌐☁️💻
+- #### Looking forward to new opportunities 🚪
+- #### I’m currently learning REACTJS <img height="10" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
 
-Here are some ideas to get you started:
+- ⚡ Fun fact: If I could win a lifetime supply of one type of food, it would be momo 🥟 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+
+### Languages and Tools:
+
+<p align="center">
+  <img height="30" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
+  <img height="30" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
+  <img height="30" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
+  <img height="30" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
+  <img height="30" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
+  <img height="30" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain.svg">
+  <img height="30" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg">
+  <img height="30" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">
+  <img height="30" src="https://github.com/konpa/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg">
+  <img height="30" src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg">
+  <img height="30" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
+  <img height="30" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+</p>
+
+
+### Reach to me via:
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/aritra-b-210b00112/)
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](https://twitter.com/SoH2k1_/)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/soham-sarkar-170212191/)
+
+<br />
+
+![Aritra's github stats](https://github-readme-stats.vercel.app/api?username=aritrakrbasu&show_icons=true&hide_border=true&count_private=true)
+
